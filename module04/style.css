@@ -78,7 +78,7 @@ li {
 # Header Area
 --------------------------------------------------------------*/
 header {
-  background-color: blue;
+  background-color: lightcyan;
 }
 
 /*--------------------------------------------------------------
@@ -89,7 +89,7 @@ body {
   padding: 10px;
 }
 main {
-  width: calc(70% - 1px)
+  width: calc(70% - 1px);
   float: left;
   padding: 1rem;
   border-right: 1px;
@@ -102,7 +102,7 @@ aside {
 # Footer Area
 --------------------------------------------------------------*/
 footer {
-  background-color: blue;
+  background-color: lightcyan;
   text-align: center;
 }
 
