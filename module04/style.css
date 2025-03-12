@@ -93,12 +93,13 @@ main {
   width: calc(70% - 1px);
   float: left;
   padding: 1rem;
-  border-right: 1px;
+  border-right: 1px solid black;
 background-color: white;
 }
 aside {
   width: 30%;
   float: right;
+  background-color: white;
 }
 /*--------------------------------------------------------------
 # Footer Area
